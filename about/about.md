@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "about"
 permalink: https://tjvans.github.io/test/about
 ---
