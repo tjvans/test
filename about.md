@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: https://tjvans.github.io/about
+title: "about"
+permalink: https://tjvans.github.io/
 ---
 # About page
 
